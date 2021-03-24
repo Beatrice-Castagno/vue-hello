@@ -1,0 +1,19 @@
+.blue {
+color:blue;
+}
+
+.pink {
+  color: pink;
+}
+
+img {
+  height: 300px;
+  width: 400px;
+  margin-top: 30px;
+}
+
+.btn_img {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+}
